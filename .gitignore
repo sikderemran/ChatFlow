@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Docker
+*.log
+*.pid
+
+# Node / Frontend
+node_modules/
+dist/
